@@ -1,0 +1,22 @@
+.bodyBackground 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass\ \(1\).jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-image: linear-gradient(to right top, #4ac093, #6db47f, #47b869, #1fb33f, rgb(42, 187, 107));
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2); 
+}
+
+#hd3{
+	width: 20%;
+    color: rgb(255, 0, 0);
+	background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2); 
+	font-family: 'League Spartan';
+}
